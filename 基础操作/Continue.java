@@ -99,15 +99,15 @@ public class Continue {
 //
 //        }
 
-        int [] arge={1,2,3,4,5};
-                Random ro= new Random();
-
-        for (int i = 0; i < 5; i++) {
-            int c= ro.nextInt(5);
-            arge[i]=arge[c];
-            System.out.println(arge[i]);
-
-        }
+//        int [] arge={1,2,3,4,5};
+//                Random ro= new Random();
+//
+//        for (int i = 0; i < 5; i++) {
+//            int c= ro.nextInt(5);
+//            arge[i]=arge[c];
+//            System.out.println(arge[i]);
+//
+//        }
      }
 
 
